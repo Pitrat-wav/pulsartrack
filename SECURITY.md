@@ -15,7 +15,7 @@ We take the security of PulsarTrack seriously. If you believe you have found a s
 
 **Please do not report security vulnerabilities via public GitHub issues.**
 
-Instead, please send an email to security@pulsartrack.io (placeholder - replace with actual if known, or use project owner contact). We will acknowledge receipt of your report within 48 hours and provide a follow-up timeline for triage and remediation.
+Instead, please send an email to security@pulsartrack.io. We will acknowledge receipt of your report within 48 hours and provide a follow-up timeline for triage and remediation.
 
 ### What to include:
 - A description of the vulnerability.
